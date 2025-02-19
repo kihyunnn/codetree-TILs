@@ -1,2 +1,4 @@
-print('Hello syduents!')
-print('Welcome to LeebrosCode!')
+print('''
+Hello students!
+Welcome to LeebrosCode!
+''')
